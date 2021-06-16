@@ -18,19 +18,19 @@ feature_row:
     btn_class: "btn--primary"
     excerpt: '<br>'
     image_path: assets/images/people.jpg
-    url: "https://trlab-at-snu.github.io/people"
+    url: "https://trlab-snu.github.io/people"
   - btn_label: "Research Area"
     btn_size: "btn--x-large"
     btn_class: "btn--primary"
     excerpt: '<br>'
     image_path: /assets/images/research_area.jpg
-    url: "https://trlab-at-snu.github.io/research_area"
+    url: "https://trlab-snu.github.io/research_area"
   - btn_label: "Publications"
     btn_size: "btn--x-large"
     btn_class: "btn--primary"
     excerpt: '<br>'
     image_path: /assets/images/publications.jpg
-    url: "https://trlab-at-snu.github.io/publications"
+    url: "https://trlab-snu.github.io/publications"
 ---
 
 {% include feature_row %}
