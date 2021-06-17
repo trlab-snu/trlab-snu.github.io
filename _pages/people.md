@@ -7,6 +7,7 @@ author_profile: true
 ## Professor
 ### Seung-Young Kho
 <div style="text-align:left"><img src="/assets/images/profile/고승영교수님_프로필사진.bmp" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 1989. University of California, Berkeley, Transportation Engineering
 :   **M. S.** 1982. Seoul National University, Dept. of Civil Engineering
 :   **B. S.** 1980. Seoul National University, Dept. of Civil Engineering
@@ -14,6 +15,7 @@ author_profile: true
 
 ### Dong-Kyu Kim
 <div style="text-align:left"><img src="/assets/images/profile/김동규교수님_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 2006. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **M. S.** 2001. Seoul National University, Dept. of Civil Engineering
 :   **B. S.** 1999. Seoul National University, Dept. of Civil Engineering
@@ -22,6 +24,7 @@ author_profile: true
 ## Senior Researcher
 ### Ho-Young Lee
 <div style="text-align:left"><img src="/assets/images/profile/이호영_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 2020. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **M. S.** 2011. University of Southampton, Dept. of Civil and Environmental Engineering
 :   **B. S.** 1999. Myongji University, Dept. of Transportation Engineering
@@ -30,6 +33,7 @@ author_profile: true
 
 ### Eui-Jin Kim
 <div style="text-align:left"><img src="/assets/images/profile/김의진_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **B. S.** 2016. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **E-Mail** kyjcwal@snu.ac.kr
@@ -37,6 +41,7 @@ author_profile: true
 
 ### Eun Hak Lee
 <div style="text-align:left"><img src="/assets/images/profile/이은학_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **B. S.** 2016. Sahmyook University, Dept. of Social Welfare / Dept. of Management Information Systems
 :   **E-Mail** eunhak@snu.ac.kr
@@ -45,42 +50,49 @@ author_profile: true
 ## Ph. D. Candidate
 ### Da-Woon Jeong
 <div style="text-align:left"><img src="/assets/images/profile/정다운_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2016. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **E-Mail** dwtrain@snu.ac.kr
 :   **Reserach Interests** Public Transportation, Smart Mobility
 
 ### Hosuk shin
 <div style="text-align:left"><img src="/assets/images/profile/신호석_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2014. Temple University Japan, Dept. of International Business Studies
 :   **E-Mail** hosukshin@snu.ac.kr
 :   **Reserach Interests** Public Transportation, Travel Behavior, Demand Forecasting
 
 ### Hyeonjong Yoo
 <div style="text-align:left"><img src="/assets/images/profile/유현종_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :  **B. S.** 2017. Seoul National University, Dept. of Civil and Environmental Engineering
 :  **E-Mail** drexyhj93@snu.ac.kr
 :  **Research Interests** Pedestrian Travel Behavior, Personal Mobility Network, Traffic Safety
 
 ### Sedong Moon
 <div style="text-align:left"><img src="/assets/images/profile/문세동_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **E-Mail** worldeast@snu.ac.kr
 :   **Reserach Interests** Public Transportation, Demand-responsive Transportation, Transportation Policy, Optimization
 
 ### Yang-Jun Joo
 <div style="text-align:left"><img src="/assets/images/profile/주양준_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2018. Seoul National University, Dept. Of Civil and Environmental Engineering
 :   **E-Mail** yangjun5@snu.ac.kr
 :   **Reserach Interests** Driving Risk Assessment, Traffic Safety, Autonmous Driving
 
 ### Seung Woo Ham
 <div style="text-align:left"><img src="/assets/images/profile/함승우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **E-Mail** seungwoo.ham@snu.ac.kr
 :   **Reserach Interests** Graph Neural Network, Deep Learning, Machine Learning, Demand Prediction
 
 ### Jinhong Min
 <div style="text-align:left"><img src="/assets/images/profile/민진홍_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **M. S.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **B. S.** 2019. Ajou University, Dept. of Transportation System Engineering
 :   **E-Mail** jinhong88@snu.ac.kr
@@ -88,12 +100,14 @@ author_profile: true
 
 ### Jae-Won Choi
 <div style="text-align:left"><img src="/assets/images/profile/최재원_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2019. Seoul National University, Dept. of Civil and Environmental Engineering
 :   **E-Mail** jwchoi21@snu.ac.kr
 :   **Reserach Interests** Smart Mobility, Deep Learning, Demand Forecasting
 
 ### Sang-Wook Han
 <div style="text-align:left"><img src="/assets/images/profile/한상욱_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2019. Konkuk University, Dept. of Mathematics / Computer Science and Engineering
 :   **E-Mail** sanguk55@snu.ac.kr
 :   **Reserach Interests** Optimization, Smart Mobility
@@ -101,6 +115,7 @@ author_profile: true
 ## M. S. Candidate
 ### 서정욱
 <div style="text-align:left"><img src="/assets/images/profile/서정욱_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 
 :   **B. S.** 
 :   **E-Mail** 
@@ -108,12 +123,14 @@ author_profile: true
 
 ### Hocheol Shin
 <div style="text-align:left"><img src="/assets/images/profile/신호철_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2014. Korea Military Academ, Dept. of Foreign Language and Literature
 :   **E-Mail** sincci7@snu.ac.kr
 :   **Reserach Interests** Optimization, Vehicle Routing Problem
 
 ### 윤현수
 <div style="text-align:left"><img src="/assets/images/profile/윤현수_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 
 :   **B. S.** 
 :   **E-Mail** 
@@ -121,24 +138,28 @@ author_profile: true
 
 ### Jung-Hoon Cho
 <div style="text-align:left"><img src="/assets/images/profile/조정훈_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2020. Seoul National University, Dept. Of Civil and Environmental Engineering
 :   **E-Mail** cr2622@snu.ac.kr
 :   **Reserach Interests** Smart Mobility, Smart Infrastructure, Data Intelligence and Machine Learning
 
 ### 신용우
 <div style="text-align:left"><img src="/assets/images/profile/신용우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2020. Hanyang University, Dept, of Transportation and Logistics Engineering
 :   **E-Mail** ywshin0425@snu.ac.kr
 :   **Reserach Interests** Autonomous Driving, Traffic Safety, Travel Behavior
 
 ### Hee-Dong Han
 <div style="text-align:left"><img src="/assets/images/profile/한희동_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2020. Hanyang University, Dept. Of Transportation and Logistics Engineering
 :   **E-Mail** genimi5@snu.ac.kr
 :   **Reserach Interests** Autonomous Driving, Traffic Simlulation, Intelligent Transport Systems
 
 ### 김은정
 <div style="text-align:left"><img src="/assets/images/profile/김은정_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 
 :   **B. S.** 
 :   **E-Mail** 
@@ -146,6 +167,7 @@ author_profile: true
 
 ### 박성연
 <div style="text-align:left"><img src="/assets/images/profile/박성연_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **Ph. D.** 
 :   **B. S.** 
 :   **E-Mail** 
@@ -153,6 +175,7 @@ author_profile: true
 
 ### Yonggeun Shin
 <div style="text-align:left"><img src="/assets/images/profile/신용근_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 :   **B. S.** 2019. Hongik University, Dept. Of Urban Design and Planning
 :   **E-Mail** tlsdydrms@snu.ac.kr
 :   **Reserach Interests** Demand Forecasting, Travel Behavior, Mobility Data Intelligence
