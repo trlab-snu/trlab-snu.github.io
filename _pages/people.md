@@ -7,18 +7,19 @@ author_profile: true
 ## Professor
 ### Seung-Young Kho
 <div style="text-align:left"><img src="/assets/images/profile/고승영교수님_프로필사진.bmp" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-**Ph. D.** 1989. University of California, Berkeley, Transportation Engineering 
-**M. S.** 1982. Seoul National University, Dept. of Civil Engineering   
-**B. S.** 1980. Seoul National University, Dept. of Civil Engineering   
-**E-Mail** sykho@snu.ac.kr  
+
+- **Ph. D.** 1989. University of California, Berkeley, Transportation Engineering 
+- **M. S.** 1982. Seoul National University, Dept. of Civil Engineering   
+- **B. S.** 1980. Seoul National University, Dept. of Civil Engineering   
+- **E-Mail** sykho@snu.ac.kr  
 
 ### Dong-Kyu Kim
 <div style="text-align:left"><img src="/assets/images/profile/김동규교수님_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
-:   **Ph. D.** 2006. Seoul National University, Dept. of Civil and Environmental Engineering
-:   **M. S.** 2001. Seoul National University, Dept. of Civil Engineering
-:   **B. S.** 1999. Seoul National University, Dept. of Civil Engineering
-:   **E-Mail** dongkyukim@snu.ac.kr
+**Ph. D.** 2006. Seoul National University, Dept. of Civil and Environmental Engineering </br>
+**M. S.** 2001. Seoul National University, Dept. of Civil Engineering </br>
+**B. S.** 1999. Seoul National University, Dept. of Civil Engineering </br>
+**E-Mail** dongkyukim@snu.ac.kr </br>
 
 ## Senior Researcher
 ### Ho-Young Lee
