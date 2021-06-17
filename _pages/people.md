@@ -16,10 +16,10 @@ author_profile: true
 ### Dong-Kyu Kim
 <div style="text-align:left"><img src="/assets/images/profile/김동규교수님_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
-**Ph. D.** 2006. Seoul National University, Dept. of Civil and Environmental Engineering </br>
-**M. S.** 2001. Seoul National University, Dept. of Civil Engineering </br>
-**B. S.** 1999. Seoul National University, Dept. of Civil Engineering </br>
-**E-Mail** dongkyukim@snu.ac.kr </br>
+**Ph. D.** 2006. Seoul National University, Dept. of Civil and Environmental Engineering <br/>
+**M. S.** 2001. Seoul National University, Dept. of Civil Engineering <br/>
+**B. S.** 1999. Seoul National University, Dept. of Civil Engineering <br/>
+**E-Mail** dongkyukim@snu.ac.kr <br/>
 
 ## Senior Researcher
 ### Ho-Young Lee
