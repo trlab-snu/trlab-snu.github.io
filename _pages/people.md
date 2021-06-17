@@ -112,12 +112,11 @@ author_profile: true
 :   **Reserach Interests** Optimization, Smart Mobility
 
 ## M. S. Candidate
-### 서정욱
+### Jeongwook Seo
 
-:   **Ph. D.** 
-:   **B. S.** 
-:   **E-Mail** 
-:   **Reserach Interests** 
+:   **B. S.** 2020. Seoul National University, Dept. Of Civil and Environmental Engineering
+:   **E-Mail** jwseo0227@snu.ac.kr
+:   **Reserach Interests** Agent Based Model, Activity Model
 
 ### Hocheol Shin
 <div style="text-align:left"><img src="/assets/images/profile/신호철_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
@@ -126,12 +125,11 @@ author_profile: true
 :   **E-Mail** sincci7@snu.ac.kr
 :   **Reserach Interests** Optimization, Vehicle Routing Problem
 
-### 윤현수
+### Hyun-soo Yun
 
-:   **Ph. D.** 
-:   **B. S.** 
-:   **E-Mail** 
-:   **Reserach Interests** 
+:   **B. S.** 2020. Kyung Hee University, Dept. of Civil Engineering
+:   **E-Mail**yoonhs1113@snu.ac.kr
+:   **Reserach Interests** Smart Mobility, Data Intelligence, Reinforcement Learning
 
 ### Jung-Hoon Cho
 <div style="text-align:left"><img src="/assets/images/profile/조정훈_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
@@ -154,21 +152,19 @@ author_profile: true
 :   **E-Mail** genimi5@snu.ac.kr
 :   **Reserach Interests** Autonomous Driving, Traffic Simlulation, Intelligent Transport Systems
 
-### 김은정
+### Eun-Jung Kim
 <div style="text-align:left"><img src="/assets/images/profile/김은정_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
-:   **Ph. D.** 
-:   **B. S.** 
-:   **E-Mail** 
-:   **Reserach Interests** 
+:   **B. S.** 2020. University of Illinois at Urbana Champaign, Dept. of Liberal Arts and Science, Statistics
+:   **E-Mail** eunjungkim@snu.ac.kr
+:   **Reserach Interests** Big Data Analysis, Artificial Intelligence, Machine Learning
 
-### 박성연
+### Seong-Yeon Park
 <div style="text-align:left"><img src="/assets/images/profile/박성연_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
-:   **Ph. D.** 
-:   **B. S.** 
-:   **E-Mail** 
-:   **Reserach Interests** 
+:   **B. S.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
+:   **E-Mail** psyeon990@snu.ac.kr
+:   **Reserach Interests** Shared Mobility, Travel behavior, Data Mining
 
 ### Yonggeun Shin
 <div style="text-align:left"><img src="/assets/images/profile/신용근_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
