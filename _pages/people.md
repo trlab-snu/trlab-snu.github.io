@@ -114,7 +114,6 @@ author_profile: true
 
 ## M. S. Candidate
 ### 서정욱
-<div style="text-align:left"><img src="/assets/images/profile/서정욱_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
 :   **Ph. D.** 
 :   **B. S.** 
@@ -129,7 +128,6 @@ author_profile: true
 :   **Reserach Interests** Optimization, Vehicle Routing Problem
 
 ### 윤현수
-<div style="text-align:left"><img src="/assets/images/profile/윤현수_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
 :   **Ph. D.** 
 :   **B. S.** 
@@ -143,7 +141,7 @@ author_profile: true
 :   **E-Mail** cr2622@snu.ac.kr
 :   **Reserach Interests** Smart Mobility, Smart Infrastructure, Data Intelligence and Machine Learning
 
-### 신용우
+### Yongwoo Shin
 <div style="text-align:left"><img src="/assets/images/profile/신용우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
 :   **B. S.** 2020. Hanyang University, Dept, of Transportation and Logistics Engineering
