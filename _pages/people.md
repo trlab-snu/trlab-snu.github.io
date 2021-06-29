@@ -69,9 +69,9 @@ author_profile: true
 ### Hyeonjong Yoo
 <div style="text-align:left"><img src="/assets/images/profile/유현종_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
-       * **B. S.** 2017. Seoul National University, Dept. of Civil and Environmental Engineering
-       * **E-Mail** drexyhj93@snu.ac.kr 
-  **Research Interests** Pedestrian Travel Behavior, Personal Mobility Network, Traffic Safety
+   * **B. S.** 2017. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **E-Mail** drexyhj93@snu.ac.kr 
+   * **Research Interests** Pedestrian Travel Behavior, Personal Mobility Network, Traffic Safety
 
 ### Sedong Moon
 <div style="text-align:left"><img src="/assets/images/profile/문세동_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
@@ -90,7 +90,7 @@ author_profile: true
 ### Seung Woo Ham
 <div style="text-align:left"><img src="/assets/images/profile/함승우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
-   * **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering / Dept. of Industrial Engineering (Minor)
    * **E-Mail** seungwoo.ham@snu.ac.kr 
    * **Reserach Interests** Graph Neural Network, Deep Learning, Machine Learning, Demand Prediction
 
