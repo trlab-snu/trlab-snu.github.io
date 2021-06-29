@@ -21,7 +21,7 @@ author_profile: true
 * **B. S.** 1999. Seoul National University, Dept. of Civil Engineering
 * **E-Mail** dongkyukim@snu.ac.kr
 
-</br>
+<br/>
 
 ## Senior Researcher
 ### Ho-Young Lee
@@ -49,7 +49,7 @@ author_profile: true
 * **E-Mail** eunhak@snu.ac.kr 
 * **Reserach Interests** Transportation Planning, Mobility Data Intelligence
 
-</br>
+<br/>
 
 ## Ph. D. Candidate
 ### Da-Woon Jeong
@@ -116,7 +116,7 @@ author_profile: true
 * **E-Mail** sanguk55@snu.ac.kr 
 * **Reserach Interests** Optimization, Smart Mobility
 
-</br>
+<br/>
 
 ## M. S. Candidate
 ### Jeongwook Seo
@@ -134,6 +134,8 @@ author_profile: true
 * **Reserach Interests** Optimization, Vehicle Routing Problem
 
 ### Hyun-soo Yun
+<div style="text-align:left"><img src="/assets/images/profile/윤현수_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
 
 * **B. S.** 2020. Kyung Hee University, Dept. of Civil Engineering
 * **E-Mail** yoonhs1113@snu.ac.kr 
