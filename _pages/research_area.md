@@ -4,10 +4,16 @@ permalink: /research_area
 author_profile: true
 ---
 
-## Public Transportation
+[www.google.com](## Public Transportation)
+We study the optimization and equity of public transportation that greatly affects the mobility of citizens.
 
-## Travel Behaivor
+## User Behaivor Analysis
 
-## Mobility Data Intelligence
+
+## Data Based Learning and Prediction
+
 
 ## Autonomous Driving
+
+
+## Optimization and Strategy Planning
