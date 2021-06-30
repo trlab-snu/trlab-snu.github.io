@@ -29,12 +29,36 @@ author_profile: true
 
 - Kim, Eui-Jin. "Analysis of Travel Mode Choice in Seoul Using an Interpretable Machine Learning Approach." Journal of Advanced Transportation 2021 (2021). [link](<https://downloads.hindawi.com/journals/jat/2021/6685004.pdf>)
 
-- Kim, Eui-Jin, Oh Hoon Kwon, Shin Hyoung Park, Dong-Kyu Kim, and Koohong Chung. "Application of naïve Bayesian approach in detecting reproducible fatal collision locations on freeway." PloS one 16, no. 5 (2021): e0251866. [link](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251866>)
-
 - Kim, Eui-Jin, Youngseo Kim, Sunghoon Jang, and Dong-Kyu Kim. "Tourists’ preference on the combination of travel modes under Mobility-as-a-Service environment." Transportation Research Part A: Policy and Practice 150 (2021): 236-255. [link](<https://reader.elsevier.com/reader/sd/pii/S0965856421001634?token=61CBF1F81989D63D9E20A952DFC304DCA2CA4C0C17AC54B49D8199B94CBA05BA57BC2E081E1F957CE7147927B86B896D&originRegion=us-east-1&originCreation=20210630004906>)
 
+- Kim, Eui-Jin, Youngseo Kim, and Dong-Kyu Kim. "Interpretable machine-learning models for estimating trip purpose in smart card data." In Proceedings of the Institution of Civil Engineers-Municipal Engineer, vol. 174, no. 2, pp. 108-117. Thomas Telford Ltd, 2021. [link](<https://www.icevirtuallibrary.com/doi/abs/10.1680/jmuen.20.00003>)
+
+- Shin, Hosuk, Dong-Kyu Kim, Seung-Young Kho, and Shin-Hyung Cho. "Valuation of Metro Crowding Considering Heterogeneity of Route Choice Behaviors." Transportation Research Record 2675, no. 2 (2021): 162-173. [link](<https://journals.sagepub.com/doi/full/10.1177/0361198120948862>)
+
+- Seo, Young-Hyun, Sangwon Yoon, Dong-Kyu Kim, Seung-Young Kho, and Jaemin Hwang. "Predicting demand for a bike-sharing system with station activity based on random forest." In Proceedings of the Institution of Civil Engineers-Municipal Engineer, vol. 174, no. 2, pp. 97-107. Thomas Telford Ltd, 2021. [link](<https://www.icevirtuallibrary.com/doi/abs/10.1680/jmuen.20.00001>)
 
 ### 2020
 - Seo, Jeongwook, Shin-Hyung Cho, Dong-Kyu Kim, and Peter Young-Jin Park. "Analysis of overlapping origin–destination pairs between bus stations to enhance the efficiency of bus operations." IET Intelligent Transport Systems 14, no. 6 (2020): 545-553. [link](<https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-its.2019.0158>)
 
 - Kapuku, Christian, Seung-Young Kho, Dong-Kyu Kim, and Shin-Hyung Cho. "Modeling the competitiveness of a bike-sharing system using bicycle GPS and transit smartcard data." Transportation Letters (2020): 1-5. [link](<https://www.tandfonline.com/doi/pdf/10.1080/19427867.2020.1758389?needAccess=true>)
+
+- Lee, Eun Hak, Seung-Young Kho, Dong-Kyu Kim, and Shin-Hyung Cho. "Travel time prediction using gated recurrent unit and spatio-temporal algorithm." In Proceedings of the Institution of Civil Engineers-Municipal Engineer, vol. 174, no. 2, pp. 88-96. Thomas Telford Ltd, 2021. [link](<https://www.icevirtuallibrary.com/doi/abs/10.1680/jmuen.20.00004>)
+
+- Kim, Eui-Jin, Dong-Kyu Kim, Seung-Young Kho, and Koohong Chung. "Spatiotemporal filtering method for detecting kinematic waves in a connected environment." PloS one 15, no. 12 (2020): e0244329. [link](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244329>)
+
+- Ham, Seung Woo, Ho-Chul Park, Eui-Jin Kim, Seung-Young Kho, and Dong-Kyu Kim. "Investigating the influential factors for practical application of multi-class vehicle detection for images from unmanned aerial vehicle using deep learning models." Transportation Research Record 2674, no. 12 (2020): 553-567. [link](<https://journals.sagepub.com/doi/full/10.1177/0361198120954187>)
+
+- Hwang, Hyunjun, Shin-Hyung Cho, Dong-Kyu Kim, and Seung-Young Kho. "Development of a model for evaluating the coverage area of transit center using smart card data." Journal of Advanced Transportation 2020 (2020). [link](<https://www.hindawi.com/journals/jat/2020/8819791/>)
+
+### 2019
+- Kim, Eui-Jin, Ho-Chul Park, Seung-Young Kho, and Dong-Kyu Kim. "A hybrid approach based on variational mode decomposition for analyzing and predicting urban travel speed." Journal of Advanced Transportation 2019 (2019). [link](<https://www.hindawi.com/journals/jat/2019/3958127/>)
+
+- Lee, Eun Hak, Hosuk Shin, Shin-Hyung Cho, Seung-Young Kho, and Dong-Kyu Kim. "Evaluating the efficiency of transit-oriented development using network slacks-based data envelopment analysis." Energies 12, no. 19 (2019): 3609. [link](<https://www.mdpi.com/1996-1073/12/19/3609>)
+
+- Lee, Eun Hak, Inmook Lee, Shin-Hyung Cho, Seung-Young Kho, and Dong-Kyu Kim. "A travel behavior-based skip-stop strategy considering train choice behaviors based on smartcard data." Sustainability 11, no. 10 (2019): 2791. [link](<https://www.mdpi.com/2071-1050/11/10/2791>)
+
+- Kim, Eui-Jin, Ho-Chul Park, Seung-Woo Ham, Seung-Young Kho, and Dong-Kyu Kim. "Extracting vehicle trajectories using unmanned aerial vehicles in congested traffic conditions." Journal of Advanced Transportation 2019 (2019). [link](<https://www.hindawi.com/journals/jat/2019/9060797/>)
+
+- Kang, Seong-Cheol, and Hoyoung Lee. "Economic appraisal of implementing electric vehicle taxis in Seoul." Research in Transportation Economics 73 (2019): 45-52. [link](<https://www.sciencedirect.com/science/article/pii/S0739885919300617>)
+
+- Lee, Eun Hak, Hoyoung Lee, Seung-Young Kho, and Dong-Kyu Kim. "Evaluation of transfer efficiency between bus and subway based on data envelopment analysis using smart card data." KSCE Journal of Civil Engineering 23, no. 2 (2019): 788-799. [link](<https://link.springer.com/content/pdf/10.1007/s12205-018-0218-0.pdf>)
