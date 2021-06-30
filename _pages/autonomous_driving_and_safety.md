@@ -1,6 +1,6 @@
 ---
 title: "Research Area"
-permalink: /research_area
+permalink: /research_area/autonomous_driving_and_safety/
 author_profile: true
 ---
 

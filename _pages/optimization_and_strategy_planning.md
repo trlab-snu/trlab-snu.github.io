@@ -1,16 +1,8 @@
 ---
 title: "Research Area"
-permalink: /research_area
+permalink: /research_area/optimization_and_strategy_planning/
 author_profile: true
 ---
 
-## Public Transportation
- 
-
-## Travel Behaivor
- 
-
-## Mobility Data Intelligence
- 
-
-## Autonomous Driving
+## Optimization and Strategy Planning
+### We develop strategies for the effective use of transportation infrastructure, where huge social capital is invested.
