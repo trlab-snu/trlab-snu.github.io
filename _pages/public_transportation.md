@@ -1,16 +1,13 @@
 ---
 title: "Research Area"
-permalink: /research_area
+permalink: /research_area/public_transportation
 author_profile: true
 ---
-
 ## Public Transportation
- 
+### We study the optimization and equity of public transportation that greatly affects the mobility of citizens. 
 
-## Travel Behaivor
- 
+<div style="text-align:left"><img src="/assets/images/profile/research/김은정/슬라이드1.png" width="700" style="margin: 8px 8px 8px 8px;"/></div>
 
-## Mobility Data Intelligence
- 
+<div style="text-align:left"><img src="/assets/images/profile/research/문세동/슬라이드1.png" style="margin: 8px 8px 8px 8px;"/></div>
 
-## Autonomous Driving
+<div style="text-align:left"><img src="/assets/images/profile/research/윤현수/슬라이드2.png" style="margin: 8px 8px 8px 8px;"/></div>
