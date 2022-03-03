@@ -103,7 +103,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dongkyukim@snu.ac.kr"
-    - label: "Website"
+    - label: "Youtube"
       icon: "fas fa-fw fa-link"
       url: "https://www.youtube.com/channel/UCqWerI5WlMvLsy6JQyKcg7w"
     # - label: "Twitter"
