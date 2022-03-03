@@ -7,8 +7,8 @@ author_profile: true
 ## Public Transportation
 We study the optimization and equity of public transportation that greatly affects the mobility of citizens. [For the detailed information, click here.](<https://trlab-snu.github.io/research_area/public_transportation>)
 
-## User Behaivor Analysis
-We analyze and understand the behavior of mobility service users so that they can have a enriched experience. [For the detailed information, click here.](<https://trlab-snu.github.io/research_area/user_behaivor_analysis>)
+## User Behavior Analysis
+We analyze and understand the behavior of mobility service users so that they can have a enriched experience. [For the detailed information, click here.](<https://trlab-snu.github.io/research_area/user_behavior_analysis>)
 
 ## Data Based Learning and Prediction
 Based on various methodologies including deep learning, we analyzes patterns and predicts the future by grasping the meaning contained in the data. [For the detailed information, click here.](<https://trlab-snu.github.io/research_area/data_based_learning_and_prediction>)
