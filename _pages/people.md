@@ -23,7 +23,7 @@ author_profile: true
 
 <br/>
 
-## Postdoctoral Reseracher
+## Postdoctoral Researcher
 ### Eui-Jin Kim
 <div style="text-align:left"><img src="/assets/images/profile/김의진_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -40,6 +40,14 @@ author_profile: true
    * **E-Mail** eunhak@snu.ac.kr 
    * **Reserach Interests** Transportation Planning, Mobility Data Intelligence
 
+### Hosuk shin
+<div style="text-align:left"><img src="/assets/images/profile/신호석_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **Ph. D.** 2022. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
+   * **B. S.** 2014. Temple University Japan, Dept. of International Business Studies
+   * **E-Mail** hosukshin@snu.ac.kr 
+   * **Reserach Interests** Public Transportation, Travel Behavior, Demand Forecasting
+
 <br/>
 
 ## Ph. D. Course
@@ -49,13 +57,6 @@ author_profile: true
    * **B. S.** 2016. Seoul National University, Dept. of Civil and Environmental Engineering
    * **E-Mail** dwtrain@snu.ac.kr 
    * **Reserach Interests** Public Transportation, Smart Mobility
-
-### Hosuk shin
-<div style="text-align:left"><img src="/assets/images/profile/신호석_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2014. Temple University Japan, Dept. of International Business Studies
-   * **E-Mail** hosukshin@snu.ac.kr 
-   * **Reserach Interests** Public Transportation, Travel Behavior, Demand Forecasting
 
 ### Hyeonjong Yoo
 <div style="text-align:left"><img src="/assets/images/profile/유현종_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
@@ -88,7 +89,7 @@ author_profile: true
 ### Jinhong Min
 <div style="text-align:left"><img src="/assets/images/profile/민진홍_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
-   * **M. S.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **M. S.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
    * **B. S.** 2019. Ajou University, Dept. of Transportation System Engineering
    * **E-Mail** jinhong88@snu.ac.kr 
    * **Reserach Interests** Travel Behavior, Smart Mobility, Mobility Data Intelligence
@@ -107,37 +108,16 @@ author_profile: true
    * **E-Mail** sanguk55@snu.ac.kr 
    * **Reserach Interests** Optimization, Smart Mobility
 
-<br/>
-
-## M. S. Course
-### Jeongwook Seo
-<div style="text-align:left"><img src="/assets/images/profile/서정욱_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2019. Seoul National University, Dept. Of Civil and Environmental Engineering
-   * **E-Mail** jwseo0227@snu.ac.kr 
-   * **Reserach Interests** Transportation Planning, Activity Based Model
-
-### Hocheol Shin
-<div style="text-align:left"><img src="/assets/images/profile/신호철_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2014. Korea Military Academ, Dept. of Foreign Language and Literature
-   * **E-Mail** sincci7@snu.ac.kr 
-   * **Reserach Interests** Optimization, Vehicle Routing Problem
-
 ### Hyun-soo Yun
 <div style="text-align:left"><img src="/assets/images/profile/윤현수_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2020. Kyung Hee University, Dept. of Civil Engineering
    * **E-Mail** yoonhs1113@snu.ac.kr 
-   * **Reserach Interests** Smart Mobility, Data Intelligence, Reinforcement Learning
+   * **Reserach Interests** Demand prediction, Reinforcement Learning
 
-### Jung-Hoon Cho
-<div style="text-align:left"><img src="/assets/images/profile/조정훈_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+<br/>
 
-   * **B. S.** 2020. Seoul National University, Dept. Of Civil and Environmental Engineering
-   * **E-Mail** cr2622@snu.ac.kr 
-   * **Reserach Interests** Smart Mobility, Smart Infrastructure, Data Intelligence, Machine Learning
-
+## M. S. Course
 ### Yongwoo Shin
 <div style="text-align:left"><img src="/assets/images/profile/신용우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -172,3 +152,41 @@ author_profile: true
    * **B. S.** 2019. Hongik University, Dept. Of Urban Design and Planning 
    * **E-Mail** tlsdydrms@snu.ac.kr 
    * **Reserach Interests** Demand Forecasting, Travel Behavior, Mobility Data Intelligence
+
+### Donggyu Min
+<div style="text-align:left"><img src="/assets/images/profile/민동규_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2022. Yonsei University, Dept. of Urban Planning and Engineering
+   * **E-Mail** dgmin@snu.ac.kr
+   * **Reserach Interests** Intelligent Transport Systems, Autonomous Driving, Travel Behavior
+
+### Junhee Choi
+<div style="text-align:left"><img src="/assets/images/profile/최준희_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2022. Hongik University, Dept. of Urban Design and Planning
+   * **E-Mail** jhc28316@snu.ac.kr
+   * **Reserach Interests** Traffic Safety, Data Intelligence, Transportation Geography
+
+<br/>
+
+## Alumni
+### Jeongwook Seo
+<div style="text-align:left"><img src="/assets/images/profile/서정욱_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **M. S.** 2021. Seoul National University, Dept. Of Civil and Environmental Engineering, Transportation Research Laboratory
+   * **B. S.** 2019. Seoul National University, Dept. Of Civil and Environmental Engineering
+   * **E-Mail** jwseo0227@snu.ac.kr 
+
+### Hocheol Shin
+<div style="text-align:left"><img src="/assets/images/profile/신호철_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **M. S.** 2022. Seoul National University, Dept. Of Civil and Environmental Engineering, Transportation Research Laboratory
+   * **B. S.** 2014. Korea Military Academ, Dept. of Foreign Language and Literature
+   * **E-Mail** sincci7@snu.ac.kr 
+
+### Jung-Hoon Cho
+<div style="text-align:left"><img src="/assets/images/profile/조정훈_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **M. S.** 2022. Seoul National University, Dept. Of Civil and Environmental Engineering, Transportation Research Laboratory
+   * **B. S.** 2020. Seoul National University, Dept. Of Civil and Environmental Engineering
+   * **E-Mail** cr2622@snu.ac.kr 

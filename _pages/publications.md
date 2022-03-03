@@ -6,14 +6,24 @@ author_profile: true
 
 ## Publications
 
+### 2022
+- Kim, Eui-Jin, Dong-Kyu Kim, and Keemin Sohn. "Imputing qualitative attributes for trip chains extracted from smart card data using a conditional generative adversarial network." Transportation Research Part C: Emerging Technologies 137 (2022): 103616. [link](<https://www.sciencedirect.com/science/article/pii/S0968090X22000626>)
+
+- Lee, Eun Hak, Kyoungtae Kim, Seung-Young Kho, Dong-Kyu Kim, and Shin-Hyung Cho. "Exploring for Route Preferences of Subway Passengers Using Smart Card and Train Log Data." Journal of Advanced Transportation 2022 (2022). [link](<https://www.hindawi.com/journals/jat/2022/6657486/>)
+
 ### 2021
+- Yun, Hyunsoo, Eun Hak Lee, Dong-Kyu Kim, and Shin-Hyung Cho. "Development of Estimating Methodology for Transit Accessibility Using Smart Card Data." Transportation Research Record 2675, no. 11 (2021): 159-171.
+Efficiency Comparison of Public Bike-Sharing Repositioning Strategies Based on Predicted Demand Patterns [link](<https://journals.sagepub.com/doi/pdf/10.1177/03611981211027562>)
+
+- Moon, Sedong, Dong-Kyu Kim, and Shin-Hyung Cho. "Design of Zonal Express Bus Services to Reduce User Travel Time and Transfers Considering Demand Diversion." Transportation Research Record 2675, no. 11 (2021): 486-497. [link](<https://journals.sagepub.com/doi/pdf/10.1177/03611981211018463>)
+
 - Lee, Eun Hak, Seung-Young Kho, Dong-Kyu Kim, and Shin-Hyung Cho. "Travel time prediction using gated recurrent unit and spatio-temporal algorithm." In Proceedings of the Institution of Civil Engineers-Municipal Engineer, vol. 174, no. 2, pp. 88-96. Thomas Telford Ltd, 2021. [link](<https://www.icevirtuallibrary.com/doi/pdf/10.1680/jmuen.20.00004>)
 
 - Han, Sang-Wook, Eun Hak Lee, and Dong-Kyu Kim. "Multi-Objective Optimization for Skip-Stop Strategy Based on Smartcard Data Considering Total Travel Time and Equity." Transportation Research Record (2021): 03611981211013044. [link](<https://journals.sagepub.com/doi/pdf/10.1177/03611981211013044>)
 
 - Kim, Youngseo, Eui-Jin Kim, Sunghoon Jang, and Dong-Kyu Kim. "A comparative analysis of the users of private cars and public transportation for intermodal options under Mobility-as-a-Service in Seoul." Travel Behaviour and Society 24 (2021): 68-80. [link](<https://reader.elsevier.com/reader/sd/pii/S2214367X21000211?token=4BDF40AD3D6E6F6AA24E0BE0F2439539F145ACB7CE9A8CEF55A42E3538E5E3D2D1383B2E2A8486B7996A18CB1779F4DC&originRegion=us-east-1&originCreation=20210630003924>)
 
-- Hak Lee, Eun, Kyoungtae Kim, Seung-Young Kho, Dong-Kyu Kim, and Shin-Hyung Cho. "Estimating Express Train Preference of Urban Railway Passengers Based on Extreme Gradient Boosting (XGBoost) using Smart Card Data." Transportation Research Record (2021): 03611981211013349. [link](<https://journals.sagepub.com/doi/pdf/10.1177/03611981211013349>)
+- Lee, Eun Hak, Kyoungtae Kim, Seung-Young Kho, Dong-Kyu Kim, and Shin-Hyung Cho. "Estimating Express Train Preference of Urban Railway Passengers Based on Extreme Gradient Boosting (XGBoost) using Smart Card Data." Transportation Research Record (2021): 03611981211013349. [link](<https://journals.sagepub.com/doi/pdf/10.1177/03611981211013349>)
 
 - Kim, Eui-Jin, Oh Hoon Kwon, Shin Hyoung Park, Dong-Kyu Kim, and Koohong Chung. "Application of naïve Bayesian approach in detecting reproducible fatal collision locations on freeway." PloS one 16, no. 5 (2021): e0251866. [link](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251866>)
 
