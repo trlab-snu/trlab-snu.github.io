@@ -86,6 +86,14 @@ author_profile: true
    * **E-Mail** seungwoo.ham@snu.ac.kr 
    * **Research Interests** Graph Neural Network, Deep Learning, Machine Learning, Demand Prediction
 
+### Sehyun Park
+<div style="text-align:left"><img src="/assets/images/profile/박세현_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **M. S.** 2016. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **B. S.** 2014. University of Seoul, Dept. of  Transportation Engineering
+   * **E-mail** psh0816@snu.ac.kr
+   * **Research Interests** Public Transportation, Travel Behavior
+
 ### Jinhong Min
 <div style="text-align:left"><img src="/assets/images/profile/민진홍_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -109,7 +117,7 @@ author_profile: true
    * **Research Interests** Optimization, Smart Mobility
 
 ### Hyun-soo Yun
-<div style="text-align:left"><img src="/assets/images/profile/윤현수_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+<div style="text-align:left"><img src="/assets/images/profile/윤현수_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2020. Kyung Hee University, Dept. of Civil Engineering
    * **E-Mail** yoonhs1113@snu.ac.kr 

@@ -4,7 +4,7 @@ permalink: /alumni
 author_profile: true
 ---
 
-## Alumni
+## Alumni (2021~)
 ### Jeongwook Seo
 <div style="text-align:left"><img src="/assets/images/profile/서정욱_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
