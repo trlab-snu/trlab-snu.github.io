@@ -158,7 +158,7 @@ author_profile: true
 <div style="text-align:left"><img src="/assets/images/profile/신용근_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2019. Hongik University, Dept. Of Urban Design and Planning 
-   * **E-Mail** tlsdydrms@snu.ac.kr 
+   * **E-Mail** ygshin@snu.ac.kr
    * **Research Interests** Demand Forecasting, Travel Behavior, Mobility Data Intelligence
 
 ### Donggyu Min
