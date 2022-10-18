@@ -1,6 +1,6 @@
 ---
 title: "Research Area"
-permalink: /research_area/data_based_learning_and_prediction/
+permalink: /research_area/data_based_learning/
 author_profile: true
 ---
 
