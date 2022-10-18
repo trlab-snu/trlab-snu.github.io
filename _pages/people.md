@@ -144,3 +144,10 @@ author_profile: true
    * **B. S.** 2022. Hongik University, Dept. of Urban Design and Planning
    * **E-Mail** jhc28316@snu.ac.kr
    * **Research Interests** Traffic Safety, Data Intelligence, Transportation Geography
+
+### Taehyung Kim
+<div style="text-align:left"><img src="/assets/images/profile/김태형_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2022. Chung-Ang University, Dept. Of Urban Design and Studies
+   * **E-Mail** jerickim@snu.ac.kr
+   * **Research Interests** Public Transportation, Big Data Anaysis, Travel Behavior, Demand Prediction
