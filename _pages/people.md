@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 ## Professor
-### Seung-Young Kho
+### Seung-Young Kho (Emeritus)
 <div style="text-align:left"><img src="/assets/images/profile/고승영교수님_프로필사진.bmp" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **Ph. D.** 1989. University of California, Berkeley, Transportation Engineering
    * **M. S.** 1982. Seoul National University, Dept. of Civil Engineering
    * **B. S.** 1980. Seoul National University, Dept. of Civil Engineering
-   * **E-Mail** sykho@snu.ac.kr
+   * **E-Mail** sykho
 
 ### Dong-Kyu Kim
 <div style="text-align:left"><img src="/assets/images/profile/김동규교수님_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
@@ -24,22 +24,6 @@ author_profile: true
 <br/>
 
 ## Postdoctoral Researcher
-### Eui-Jin Kim
-<div style="text-align:left"><img src="/assets/images/profile/김의진_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **Ph. D.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
-   * **B. S.** 2016. Seoul National University, Dept. of Civil and Environmental Engineering
-   * **E-Mail** kyjcwal@snu.ac.kr 
-   * **Research Interests** Demand Forecasting, Travel Behavior, Mobility Data Intelligence
-
-### Eun Hak Lee
-<div style="text-align:left"><img src="/assets/images/profile/이은학_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **Ph. D.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
-   * **B. S.** 2016. Sahmyook University, Dept. of Social Welfare / Dept. of Management Information Systems
-   * **E-Mail** eunhak@snu.ac.kr 
-   * **Research Interests** Transportation Planning, Mobility Data Intelligence
-
 ### Hosuk shin
 <div style="text-align:left"><img src="/assets/images/profile/신호석_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -126,20 +110,6 @@ author_profile: true
 <br/>
 
 ## M. S. Course
-### Yongwoo Shin
-<div style="text-align:left"><img src="/assets/images/profile/신용우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2020. Hanyang University, Dept, of Transportation and Logistics Engineering
-   * **E-Mail** ywshin0425@snu.ac.kr 
-   * **Research Interests** Autonomous Driving, Traffic Safety, Travel Behavior 
-
-### Hee-Dong Han
-<div style="text-align:left"><img src="/assets/images/profile/한희동_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2020. Hanyang University, Dept. Of Transportation and Logistics Engineering
-   * **E-Mail** genimi5@snu.ac.kr 
-   * **Research Interests** Autonomous Driving, Traffic Simlulation, Intelligent Transport Systems 
-
 ### Eun-Jung Kim
 <div style="text-align:left"><img src="/assets/images/profile/김은정_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
