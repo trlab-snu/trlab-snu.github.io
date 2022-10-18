@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Professor
-### Seung-Young Kho (Emeritus)
+### Seung-Young Kho (Emeritus Professor)
 <div style="text-align:left"><img src="/assets/images/profile/고승영교수님_프로필사진.bmp" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **Ph. D.** 1989. University of California, Berkeley, Transportation Engineering
