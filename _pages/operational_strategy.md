@@ -9,4 +9,4 @@ author_profile: true
 
 <div style="text-align:left"><img src="/assets/images/research/윤현수/슬라이드1.PNG" style="margin: 8px 8px 8px 8px;"/></div>
 
-<div style="text-align:left"><img src="/assets/images/research/민동규/슬라이드1.PNG" style="margin: 8px 8px 8px 8px;"/></div>
+<div style="text-align:left"><img src="/assets/images/research/민동규/slide1.PNG" style="margin: 8px 8px 8px 8px;"/></div>
