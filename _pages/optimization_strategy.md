@@ -11,4 +11,16 @@ author_profile: true
 
 <div style="text-align:left"><img src="/assets/images/research/박성연/slide1.PNG" style="margin: 8px 8px 8px 8px;"/></div>
 
+<div style="text-align:left"><img src="/assets/images/research/psy/slide1.PNG" style="margin: 8px 8px 8px 8px;"/></div>
+
+<div style="text-align:left"><img src="/assets/images/research/psy/slide1.png" style="margin: 8px 8px 8px 8px;"/></div>
+
+<div style="text-align:left"><img src="/assets/images/research/psy/slide1.Png" style="margin: 8px 8px 8px 8px;"/></div>
+
 <div style="text-align:left"><img src="/assets/images/research/신용근/slide1.PNG" style="margin: 8px 8px 8px 8px;"/></div>
+
+<div style="text-align:left"><img src="/assets/images/research/syg/slide1.PNG" style="margin: 8px 8px 8px 8px;"/></div>
+
+<div style="text-align:left"><img src="/assets/images/research/syg/slide1.png" style="margin: 8px 8px 8px 8px;"/></div>
+
+<div style="text-align:left"><img src="/assets/images/research/syg/slide1.Png" style="margin: 8px 8px 8px 8px;"/></div>
