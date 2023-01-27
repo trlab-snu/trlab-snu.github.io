@@ -32,6 +32,20 @@ author_profile: true
    * **E-Mail** hosukshin@snu.ac.kr 
    * **Research Interests** Public Transportation, Travel Behavior, Demand Forecasting
 
+### Sedong Moon
+<div style="text-align:left"><img src="/assets/images/profile/문세동_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **E-Mail** worldeast@snu.ac.kr 
+   * **Research Interests** Public Transportation, Demand-responsive Transportation, Transportation Policy, Optimization
+
+### Yang-Jun Joo
+<div style="text-align:left"><img src="/assets/images/profile/주양준_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2018. Seoul National University, Dept. Of Civil and Environmental Engineering
+   * **E-Mail** yangjun5@snu.ac.kr 
+   * **Research Interests** Driving Risk Assessment, Traffic Safety, Autonmous Driving
+
 <br/>
 
 ## Ph. D. Course
@@ -48,20 +62,6 @@ author_profile: true
    * **B. S.** 2017. Seoul National University, Dept. of Civil and Environmental Engineering
    * **E-Mail** drexyhj93@snu.ac.kr 
    * **Research Interests** Pedestrian Travel Behavior, Personal Mobility Network, Traffic Safety
-
-### Sedong Moon
-<div style="text-align:left"><img src="/assets/images/profile/문세동_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering
-   * **E-Mail** worldeast@snu.ac.kr 
-   * **Research Interests** Public Transportation, Demand-responsive Transportation, Transportation Policy, Optimization
-
-### Yang-Jun Joo
-<div style="text-align:left"><img src="/assets/images/profile/주양준_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2018. Seoul National University, Dept. Of Civil and Environmental Engineering
-   * **E-Mail** yangjun5@snu.ac.kr 
-   * **Research Interests** Driving Risk Assessment, Traffic Safety, Autonmous Driving
 
 ### Seung Woo Ham
 <div style="text-align:left"><img src="/assets/images/profile/함승우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
@@ -107,9 +107,6 @@ author_profile: true
    * **E-Mail** yoonhs1113@snu.ac.kr 
    * **Research Interests** Demand prediction, Reinforcement Learning
 
-<br/>
-
-## M. S. Course
 ### Eun-Jung Kim
 <div style="text-align:left"><img src="/assets/images/profile/김은정_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -117,20 +114,9 @@ author_profile: true
    * **E-Mail** eunjungkim@snu.ac.kr 
    * **Research Interests** Big Data Analysis, Artificial Intelligence, Machine Learning 
 
-### Seong-Yeon Park
-<div style="text-align:left"><img src="/assets/images/profile/박성연_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+<br/>
 
-   * **B. S.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
-   * **E-Mail** psyeon990@snu.ac.kr 
-   * **Research Interests** Shared Mobility, Travel behavior, Data Mining 
-
-### Yonggeun Shin
-<div style="text-align:left"><img src="/assets/images/profile/신용근_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2019. Hongik University, Dept. Of Urban Design and Planning 
-   * **E-Mail** ygshin@snu.ac.kr
-   * **Research Interests** Demand Forecasting, Travel Behavior, Mobility Data Intelligence
-
+## M. S. Course
 ### Donggyu Min
 <div style="text-align:left"><img src="/assets/images/profile/민동규_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -150,4 +136,4 @@ author_profile: true
 
    * **B. S.** 2022. Chung-Ang University, Dept. Of Urban Design and Studies
    * **E-Mail** jerickim@snu.ac.kr
-   * **Research Interests** Public Transportation, Big Data Anaysis, Travel Behavior, Demand Prediction
+   * **Research Interests** Public Transportation, Big Data Analysis, Travel Behavior, Demand Prediction
