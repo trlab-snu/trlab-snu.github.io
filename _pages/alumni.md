@@ -23,6 +23,7 @@ author_profile: true
 ### Seong-Yeon Park
 <div style="text-align:left"><img src="/assets/images/profile/박성연_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
+   * **M. S.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
    * **B. S.** 2021. Seoul National University, Dept. of Civil and Environmental Engineering
    * **E-Mail** psyeon990@snu.ac.kr 
    * **Research Interests** Shared Mobility, Travel behavior, Data Mining 
@@ -30,6 +31,7 @@ author_profile: true
 ### Yonggeun Shin
 <div style="text-align:left"><img src="/assets/images/profile/신용근_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
+   * **M. S.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
    * **B. S.** 2019. Hongik University, Dept. Of Urban Design and Planning 
    * **E-Mail** ygshin@snu.ac.kr
    * **Research Interests** Demand Forecasting, Travel Behavior, Mobility Data Intelligence
