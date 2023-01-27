@@ -4,11 +4,7 @@ permalink: /alumni
 author_profile: true
 ---
 
-## Alumni (2021~)
-
-<br/>
-
-## Ph. D.
+## Ph. D. (2021~)
 ### Eui-Jin Kim
 <div style="text-align:left"><img src="/assets/images/profile/김의진_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -23,7 +19,7 @@ author_profile: true
    * **B. S.** 2016. Sahmyook University, Dept. of Social Welfare / Dept. of Management Information Systems
    * **E-Mail** eunhak@snu.ac.kr 
 
-## M. S.
+## M. S. (2021~)
 ### Seong-Yeon Park
 <div style="text-align:left"><img src="/assets/images/profile/박성연_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
