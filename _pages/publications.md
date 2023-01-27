@@ -7,6 +7,8 @@ author_profile: true
 ## Publications
 
 ### 2022
+- Min, Jin Hong, Seung Woo Ham, Dong-Kyu Kim, and Eun Hak Lee. "Deep Multimodal Learning for Traffic Speed Estimation Combining Dedicated Short-Range Communication and Vehicle Detection System Data." Transportation Research Record (2022): 03611981221130026. [link](<https://journals.sagepub.com/doi/full/10.1177/03611981221130026>)
+
 - Shin, Yonggeun, Dong-Kyu Kim, and Eui-Jin Kim. "Activity-based TOD typology for seoul transit station areas using smart-card data." Journal of Transport Geography 105 (2022): 103459. [link](<https://www.sciencedirect.com/science/article/pii/S096669232200182X>)
 
 - Joo, Yang-Jun, Seung-Young Kho, Dong-Kyu Kim, and Ho-Chul Park. "A data-driven Bayesian network for probabilistic crash risk assessment of individual driver with traffic violation and crash records." Accident Analysis & Prevention 176 (2022): 106790. [link](<https://www.sciencedirect.com/science/article/pii/S0001457522002251>)
