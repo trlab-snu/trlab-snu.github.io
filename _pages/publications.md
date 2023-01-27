@@ -7,6 +7,8 @@ author_profile: true
 ## Publications
 
 ### 2022
+- Shin, Yonggeun, Dong-Kyu Kim, and Eui-Jin Kim. "Activity-based TOD typology for seoul transit station areas using smart-card data." Journal of Transport Geography 105 (2022): 103459. [link](<https://www.sciencedirect.com/science/article/pii/S096669232200182X>)
+
 - Joo, Yang-Jun, Seung-Young Kho, Dong-Kyu Kim, and Ho-Chul Park. "A data-driven Bayesian network for probabilistic crash risk assessment of individual driver with traffic violation and crash records." Accident Analysis & Prevention 176 (2022): 106790. [link](<https://www.sciencedirect.com/science/article/pii/S0001457522002251>)
 
 - Cho, Jung-Hoon, Dong-Kyu Kim, and Eui-Jin Kim. "Multi-scale causality analysis between COVID-19 cases and mobility level using ensemble empirical mode decomposition and causal decomposition." Physica A: Statistical Mechanics and its Applications 600 (2022): 127488. [link](<https://www.sciencedirect.com/science/article/pii/S0378437122003521>)

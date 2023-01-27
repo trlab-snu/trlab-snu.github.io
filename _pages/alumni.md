@@ -19,6 +19,8 @@ author_profile: true
    * **B. S.** 2016. Sahmyook University, Dept. of Social Welfare / Dept. of Management Information Systems
    * **E-Mail** eunhak@snu.ac.kr 
 
+<br/>
+
 ## M. S. (2021~)
 ### Seong-Yeon Park
 <div style="text-align:left"><img src="/assets/images/profile/박성연_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
