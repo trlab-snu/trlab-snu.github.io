@@ -7,6 +7,8 @@ author_profile: true
 ## Publications
 
 ### 2022
+- Yun, Hyunsoo, Eui-Jin Kim, Seung Woo Ham, and Dong-Kyu Kim. "Price incentive strategy for the E-scooter sharing service using deep reinforcement learning." Journal of Intelligent Transportation Systems (2022): 1-15. [link](<https://doi.org/10.1080/15472450.2022.2135437>)
+
 - Min, Jin Hong, Seung Woo Ham, Dong-Kyu Kim, and Eun Hak Lee. "Deep Multimodal Learning for Traffic Speed Estimation Combining Dedicated Short-Range Communication and Vehicle Detection System Data." Transportation Research Record (2022): 03611981221130026. [link](<https://journals.sagepub.com/doi/full/10.1177/03611981221130026>)
 
 - Shin, Yonggeun, Dong-Kyu Kim, and Eui-Jin Kim. "Activity-based TOD typology for seoul transit station areas using smart-card data." Journal of Transport Geography 105 (2022): 103459. [link](<https://www.sciencedirect.com/science/article/pii/S096669232200182X>)
