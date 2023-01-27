@@ -35,6 +35,7 @@ author_profile: true
 ### Sedong Moon
 <div style="text-align:left"><img src="/assets/images/profile/문세동_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
+   * **Ph. D.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
    * **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering
    * **E-Mail** worldeast@snu.ac.kr 
    * **Research Interests** Public Transportation, Demand-responsive Transportation, Transportation Policy, Optimization
@@ -42,6 +43,7 @@ author_profile: true
 ### Yang-Jun Joo
 <div style="text-align:left"><img src="/assets/images/profile/주양준_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
+   * **Ph. D.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
    * **B. S.** 2018. Seoul National University, Dept. Of Civil and Environmental Engineering
    * **E-Mail** yangjun5@snu.ac.kr 
    * **Research Interests** Driving Risk Assessment, Traffic Safety, Autonmous Driving
