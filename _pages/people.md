@@ -147,7 +147,7 @@ author_profile: true
    * **E-Mail** brian0907@snu.ac.kr
    * **Research Interests** Smart Mobility, Machine Learning, Optimization
 
-### Seunghyun Lee
+### Seunghyeon Lee
 <div style="text-align:left"><img src="/assets/images/profile/이승현_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering
