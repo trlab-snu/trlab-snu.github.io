@@ -139,3 +139,24 @@ author_profile: true
    * **B. S.** 2022. Chung-Ang University, Dept. Of Urban Design and Studies
    * **E-Mail** jerickim@snu.ac.kr
    * **Research Interests** Public Transportation, Big Data Analysis, Travel Behavior, Demand Prediction
+
+### Youngwhan Kim
+<div style="text-align:left"><img src="/assets/images/profile/김영환_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **E-Mail** brian0907@snu.ac.kr
+   * **Research Interests** Smart Mobility, Machine Learning, Optimization
+
+### Seunghyun Lee
+<div style="text-align:left"><img src="/assets/images/profile/이승현_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **E-Mail** hjl0786@snu.ac.kr
+   * **Research Interests** Smart Mobility, Deep Learning, Big Data Analysis
+
+### Huichang Lee
+<div style="text-align:left"><img src="/assets/images/profile/이희창_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **E-Mail** huichang@snu.ac.kr
+   * **Research Interests** Public Transportation, Demand Forecasting
