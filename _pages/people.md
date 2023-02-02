@@ -140,7 +140,7 @@ author_profile: true
    * **E-Mail** jerickim@snu.ac.kr
    * **Research Interests** Public Transportation, Big Data Analysis, Travel Behavior, Demand Prediction
 
-### Youngwhan Kim
+### Young Hwan Kim
 <div style="text-align:left"><img src="/assets/images/profile/김영환_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering
