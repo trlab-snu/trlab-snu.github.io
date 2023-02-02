@@ -25,7 +25,7 @@ author_profile: true
 
 - Yang, Jae Hwan, Dong-Kyu Kim, and Seung-Young Kho. "Recurrent neural network for estimating speed using probe vehicle data in an urban area." Transportation research record 2676, no. 1 (2022): 518-531. [link](<https://journals.sagepub.com/doi/full/10.1177/03611981211036371>)
 
-- 최준희, 강민희, 송재인, and 황기연. "도농복합지역 특성을 고려한 수요응답형 교통 (DRT) 도입 전략 제안 연구." 대한교통학회지 40, no. 3 (2022): 289-304. [link](<https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11078551&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true>)
+- Choi, Junhee, Kang, Minhee, Song, Jaein, and Hwang, Kee-Yeon (2022). A Study on Introduction of Demand Responsive Transport (DRT) in Rural-Urban Mixed Area. Journal of Korean Society of Transportation, 40, no. 3 (2022): 289-304. [link](<https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11078551&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true>)
 
 ### 2021
 - Kapuku, Christian, Seung-Young Kho, Dong-Kyu Kim, and Shin-Hyung Cho. "Assessing and predicting mobility improvement of integrating bike-sharing into multimodal public transport systems." Transportation research record 2675, no. 11 (2021): 204-213. [link](<https://journals.sagepub.com/doi/full/10.1177/03611981211045071>)
