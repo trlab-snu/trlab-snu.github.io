@@ -44,6 +44,7 @@ author_profile: true
 <div style="text-align:left"><img src="/assets/images/profile/정다운_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2016. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **Ph. D.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
    * **E-Mail** dwtrain@snu.ac.kr 
    * **Research Interests** Public Transportation, Smart Mobility
 
@@ -51,6 +52,7 @@ author_profile: true
 <div style="text-align:left"><img src="/assets/images/profile/함승우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering / Dept. of Industrial Engineering (Minor)
+   * **Ph. D.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
    * **E-Mail** seungwoo.ham@snu.ac.kr 
    * **Research Interests** Graph Neural Network, Deep Learning, Machine Learning, Demand Prediction
 
