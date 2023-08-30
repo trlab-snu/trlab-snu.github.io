@@ -24,14 +24,6 @@ author_profile: true
 <br/>
 
 ## Postdoctoral Researcher
-### Hosuk shin
-<div style="text-align:left"><img src="/assets/images/profile/신호석_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **Ph. D.** 2022. Seoul National University, Dept. of Civil and Environmental Engineering, Transportation Research Laboratory
-   * **B. S.** 2014. Temple University Japan, Dept. of International Business Studies
-   * **E-Mail** hosukshin@snu.ac.kr 
-   * **Research Interests** Public Transportation, Travel Behavior, Demand Forecasting
-
 ### Sedong Moon
 <div style="text-align:left"><img src="/assets/images/profile/문세동_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -48,9 +40,6 @@ author_profile: true
    * **E-Mail** yangjun5@snu.ac.kr 
    * **Research Interests** Driving Risk Assessment, Traffic Safety, Autonmous Driving
 
-<br/>
-
-## Ph. D. Course
 ### Da-Woon Jeong
 <div style="text-align:left"><img src="/assets/images/profile/정다운_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -58,19 +47,22 @@ author_profile: true
    * **E-Mail** dwtrain@snu.ac.kr 
    * **Research Interests** Public Transportation, Smart Mobility
 
-### Hyeonjong Yoo
-<div style="text-align:left"><img src="/assets/images/profile/유현종_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
-
-   * **B. S.** 2017. Seoul National University, Dept. of Civil and Environmental Engineering
-   * **E-Mail** drexyhj93@snu.ac.kr 
-   * **Research Interests** Pedestrian Travel Behavior, Personal Mobility Network, Traffic Safety
-
 ### Seung Woo Ham
 <div style="text-align:left"><img src="/assets/images/profile/함승우_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2018. Seoul National University, Dept. of Civil and Environmental Engineering / Dept. of Industrial Engineering (Minor)
    * **E-Mail** seungwoo.ham@snu.ac.kr 
    * **Research Interests** Graph Neural Network, Deep Learning, Machine Learning, Demand Prediction
+
+<br/>
+
+## Ph. D. Course
+### Hyeonjong Yoo
+<div style="text-align:left"><img src="/assets/images/profile/유현종_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+
+   * **B. S.** 2017. Seoul National University, Dept. of Civil and Environmental Engineering
+   * **E-Mail** drexyhj93@snu.ac.kr 
+   * **Research Interests** Pedestrian Travel Behavior, Personal Mobility Network, Traffic Safety
 
 ### Sehyun Park
 <div style="text-align:left"><img src="/assets/images/profile/박세현_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
