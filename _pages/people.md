@@ -122,7 +122,7 @@ author_profile: true
 
    * **B. S.** 2022. Hongik University, Dept. of Urban Design and Planning
    * **E-Mail** jhc28316@snu.ac.kr
-   * **Research Interests** Driving modeling, Traffic Sensor Technology, Microscopic Simulation, Traffic Safety, Transport Geography 
+   * **Research Interests** Driving Modeling, Traffic Sensor Technology, Microscopic Simulation, Traffic Safety, Transport Geography 
 
 <br/>
 
