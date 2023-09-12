@@ -6,6 +6,9 @@ author_profile: true
 
 ## Publications
 
+### 2023
+- Yun, Hyunsoo, Eun Hak Lee, Sedong Moon, and Dong-Kyu Kim. "Data-Driven Approach for Measuring and Managing Physical Distancing in Subways during Pandemic Conditions." Transportation Research Record (2023): 03611981231190394. [link](<https://journals.sagepub.com/doi/full/10.1177/03611981231190394>)
+
 ### 2022
 - Yun, Hyunsoo, Eui-Jin Kim, Seung Woo Ham, and Dong-Kyu Kim. "Price incentive strategy for the E-scooter sharing service using deep reinforcement learning." Journal of Intelligent Transportation Systems (2022): 1-15. [link](<https://doi.org/10.1080/15472450.2022.2135437>)
 
