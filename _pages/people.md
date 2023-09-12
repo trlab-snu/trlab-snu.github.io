@@ -101,7 +101,7 @@ author_profile: true
 
    * **B. S.** 2020. Kyung Hee University, Dept. of Civil Engineering
    * **E-Mail** yoonhs1113@snu.ac.kr 
-   * **Research Interests** Demand prediction, Reinforcement Learning
+   * **Research Interests** Operations, Traffic Assignment, Reinforcment Learning
 
 ### Eun-Jung Kim
 <div style="text-align:left"><img src="/assets/images/profile/김은정_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
@@ -111,7 +111,7 @@ author_profile: true
    * **Research Interests** Big Data Analysis, Artificial Intelligence, Machine Learning 
 
 ### Donggyu Min
-<div style="text-align:left"><img src="/assets/images/profile/민동규_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+<div style="text-align:left"><img src="/assets/images/profile/민동규_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2022. Yonsei University, Dept. of Urban Planning and Engineering
    * **E-Mail** dgmin@snu.ac.kr
