@@ -110,9 +110,6 @@ author_profile: true
    * **E-Mail** eunjungkim@snu.ac.kr 
    * **Research Interests** Big Data Analysis, Artificial Intelligence, Machine Learning 
 
-<br/>
-
-## M. S. Course
 ### Donggyu Min
 <div style="text-align:left"><img src="/assets/images/profile/민동규_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
@@ -127,12 +124,15 @@ author_profile: true
    * **E-Mail** jhc28316@snu.ac.kr
    * **Research Interests** Traffic Safety, Data Intelligence, Transportation Geography
 
+<br/>
+
+## M. S. Course
 ### Taehyung Kim
 <div style="text-align:left"><img src="/assets/images/profile/김태형_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2022. Chung-Ang University, Dept. Of Urban Design and Studies
    * **E-Mail** jerickim@snu.ac.kr
-   * **Research Interests** Public Transportation, Big Data Analysis, Travel Behavior, Demand Prediction
+   * **Research Interests** Multi-modal Learning, Public Transportation, Big Data Analysis, Travel Behavior, Demand Prediction
 
 ### Young Hwan Kim
 <div style="text-align:left"><img src="/assets/images/profile/김영환_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
@@ -153,4 +153,4 @@ author_profile: true
 
    * **B. S.** 2023. Seoul National University, Dept. of Civil and Environmental Engineering
    * **E-Mail** huichang@snu.ac.kr
-   * **Research Interests** Public Transportation, Demand Forecasting
+   * **Research Interests** Shared Micromobility, Public Transportation, Demand Forecasting
