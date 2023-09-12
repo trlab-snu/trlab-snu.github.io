@@ -118,11 +118,11 @@ author_profile: true
    * **Research Interests** Intelligent Transport Systems, Autonomous Driving, Travel Behavior
 
 ### Junhee Choi
-<div style="text-align:left"><img src="/assets/images/profile/최준희_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
+<div style="text-align:left"><img src="/assets/images/profile/최준희_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
 
    * **B. S.** 2022. Hongik University, Dept. of Urban Design and Planning
    * **E-Mail** jhc28316@snu.ac.kr
-   * **Research Interests** Traffic Safety, Data Intelligence, Transportation Geography
+   * **Research Interests** Driving modeling, Traffic Sensor Technology, Microscopic Simulation, Traffic Safety, Transport Geography 
 
 <br/>
 
