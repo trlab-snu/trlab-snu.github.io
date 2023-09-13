@@ -115,7 +115,7 @@ author_profile: true
 
    * **B. S.** 2022. Yonsei University, Dept. of Urban Planning and Engineering
    * **E-Mail** dgmin@snu.ac.kr
-   * **Research Interests** Intelligent Transport Systems, Autonomous Driving, Travel Behavior
+   * **Research Interests** Autonomous driving, Traffic Simulation
 
 ### Junhee Choi
 <div style="text-align:left"><img src="/assets/images/profile/최준희_프로필사진.png" width="250" style="margin: 8px 8px 8px 8px;"/></div>
