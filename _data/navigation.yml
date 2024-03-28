@@ -2,8 +2,8 @@
 main:
   - title: "People"
     url: /people
- # - title: "Research Area"
- #   url: /research_area
+  - title: "Research Area"
+    url: /research_area
   - title: "Publications"
     url: /publications
   - title: "Contact"
