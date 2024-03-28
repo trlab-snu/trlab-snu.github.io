@@ -7,20 +7,20 @@ author_profile: true
 ## Publications
 
 ### 2024
-- Min, Jin Hong, Hosuk Shin, and Dong-Kyu Kim. "Multimodal Deep Learning for Estimating Lane-Level Urban Traffic by Fusing Closed-Circuit Television and Dedicated Short-Range Communication Data." Transportation Research Record (2024) [link] (<https://doi.org/10.1177/03611981241230304>)
+- Min, Jin Hong, Hosuk Shin, and Dong-Kyu Kim. "Multimodal Deep Learning for Estimating Lane-Level Urban Traffic by Fusing Closed-Circuit Television and Dedicated Short-Range Communication Data." Transportation Research Record (2024) [link](<https://doi.org/10.1177/03611981241230304>)
 
 - Park, Seong-Yeon, Yang-Jun Joo, and Dong-Kyu Kim. "Order Dispatching in Ride-Pooling with Walking Points Search." Transportation Research Record (2024) [link](<https://doi.org/10.1177/03611981231175890>)
 
 ### 2023
-- Joo, Yang-Jun, Eui-Jin Kim, Dong-Kyu Kim, and Peter Y Park. "A generalized driving risk assessment on high-speed highways using field theory" Analytic Methods in Accident Research (2023) [link] (<https://doi.org/10.1016/j.amar.2023.100303>)
+- Joo, Yang-Jun, Eui-Jin Kim, Dong-Kyu Kim, and Peter Y Park. "A generalized driving risk assessment on high-speed highways using field theory" Analytic Methods in Accident Research (2023) [link](<https://doi.org/10.1016/j.amar.2023.100303>)
 
-- Choi, JunHee, Seung Woo Ham, Minhee Kang, Jaein Song, and Kee-Yeon Hwang. "Prediction of Severity on Two-wheeler Accident Using Cost-sensitive Learning" Traffic Safety Research (2023) [link] (<https://kiss.kstudy.com/Detail/Ar?key=4063443>)
+- Choi, JunHee, Seung Woo Ham, Minhee Kang, Jaein Song, and Kee-Yeon Hwang. "Prediction of Severity on Two-wheeler Accident Using Cost-sensitive Learning" Traffic Safety Research (2023) [link](<https://kiss.kstudy.com/Detail/Ar?key=4063443>)
 
-- Yun, Hyunsoo, Eun Hak Lee, Sedong Moon, and Dong-Kyu Kim. "Data-Driven Approach for Measuring and Managing Physical Distancing in Subways during Pandemic Conditions." Transportation Research Record (2023) [link](<https://journals.sagepub.com/doi/full/10.1177/03611981231190394>)
+- Yun, Hyunsoo, Eun Hak Lee, Sedong Moon, and Dong-Kyu Kim. "Data-Driven Approach for Measuring and Managing Physical Distancing in Subways during Pandemic Conditions." Transportation Research Record (2023)[link](<https://journals.sagepub.com/doi/full/10.1177/03611981231190394>)
 
-- Park, Seong-Yeon, Seung Woo Ham, and Dong-Kyu Kim. "User segmentation based on travel regularity in e-scooter sharing service." Transportation Research Record (2023) [link](<https://doi.org/10.1177/03611981231152256>)
+- Park, Seong-Yeon, Seung Woo Ham, and Dong-Kyu Kim. "User segmentation based on travel regularity in e-scooter sharing service." Transportation Research Record (2023)[link](<https://doi.org/10.1177/03611981231152256>)
 
-- Kim, Eunjung, Jin Hong Min, Dong-Kyu Kim, and Sedong Moon. "Analysis on Changes in Travel Patterns and Travel Purpose of Smartcard Users Pre and Post COVID-19 Outbreak." Korean Society of Transportation (2023) [link] (<https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11665468>)
+- Kim, Eunjung, Jin Hong Min, Dong-Kyu Kim, and Sedong Moon. "Analysis on Changes in Travel Patterns and Travel Purpose of Smartcard Users Pre and Post COVID-19 Outbreak." Korean Society of Transportation (2023) [link](<https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11665468>)
 
 ### 2022
 - Yun, Hyunsoo, Eui-Jin Kim, Seung Woo Ham, and Dong-Kyu Kim. "Price incentive strategy for the E-scooter sharing service using deep reinforcement learning." Journal of Intelligent Transportation Systems (2022) [link](<https://doi.org/10.1080/15472450.2022.2135437>)
