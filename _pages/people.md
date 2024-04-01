@@ -153,6 +153,7 @@ author_profile: true
    * **Research Interests** Autonomous Driving, Deep Learning, Traffic Simulation, Traffic Safety
 
 ### Bumjun Choo
+<div style="text-align:left"><img src="/assets/images/profile/추범준_프로필사진.jpg" width="250" style="margin: 8px 8px 8px 8px;"/></div>
    * **B. S.** 2024. Yonsei University, Dept. of International Studies
    * **E-Mail** bjchoo@snu.ac.kr
    * **Research Interests** Personal/Shared Mobility, Mobility as a Service, Travel Behavior, Sustainability, Data Science, Machine Learning
